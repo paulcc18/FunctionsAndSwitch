@@ -12,11 +12,10 @@ public class Switch {
                 printAnyString("Now you are in the sum program. It is necessary to type 2 numbers:");
                 printAnyString("Type the first number:");
                 int numberOne = scanner.nextInt();
-                scanner.nextLine(); // Limpiar el buffer después de nextInt
+                scanner.nextLine();
                 printAnyString("Type the second number:");
                 int numberTwo = scanner.nextInt();
                 int sumResult = sumNumbers(numberOne, numberTwo);
-
                 printAnyString("The result of sum is: " + sumResult);
                 break;
             case "b":
