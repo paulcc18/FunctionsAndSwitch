@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+Integers: Paul Cumbal & Dominix Barroso
+ */
 public class Switch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
