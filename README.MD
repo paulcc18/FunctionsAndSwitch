@@ -2,7 +2,8 @@
 
 # Integers:
 Paul Cumbal & Dominix Barroso 
+# Switch and Functions program:
 
 
-<img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-primitives.jpg">
+
 
