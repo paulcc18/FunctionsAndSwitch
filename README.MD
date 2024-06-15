@@ -6,7 +6,7 @@ We have a program that show 3 option, the first option "A" is a program that sum
 # We used language and libraries/packages from Java.
 # Screenshots of Ejecution:
 # Option A:
-![](https://github.com/paulcc18/FunctionsAndSwitch/blob/main/Option%20A.png)
+![](https://github.com/paulcc18/FunctionsAndSwitch/blob/main/Option%20A%20.png)
 # Option B:
 ![](https://github.com/paulcc18/FunctionsAndSwitch/blob/main/Option%20B.png)
 # Option C:
